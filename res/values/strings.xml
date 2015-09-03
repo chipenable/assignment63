@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VideoClient</string>
+    <string name="add_video">Add video</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="server">Server IP or Hostname</string>
+    <string name="localhost">https://10.0.2.2:8443</string>
+    <string name="title_activity_video_list">VideoListActivity</string>
+    <string name="uploading_video">Uploading video</string>
+    <string name="uploading_error">Could not get video to upload</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="video_name">Name:</string>
+    <string name="video_owner">Owner:</string>
+    <string name="video_duration">Duration:</string>
+    <string name="liked_by">Liked by:</string>
+
+</resources>
